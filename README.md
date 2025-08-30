@@ -8,4 +8,4 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/BrainzOut/Cat-facts.git
-   cd cat-facts-script
+   cd Cat-facts
